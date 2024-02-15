@@ -1,0 +1,134 @@
+﻿statement,toxicity_prompt_1,toxicity_prompt_2,toxicity_prompt_3
+This sucks..,No,Slightly Toxic,Slightly Toxic
+Application. Worst. Of all time. Please do not make this the worst application of all time. Thank you.,No,Slightly Toxic,Slightly Toxic
+"Merge my PR, damn it.",Yes,Toxic,Toxic
+"Amy, I need an explanation. What is this lol..",No,Not Toxic,Not toxic
+"I NEED AN ANSWER, ANSWER ME!",Yes,Slightly Toxic,Slightly Toxic
+What kind of trash is this..,Yes,Toxic,Toxic
+Readme is useless.,No,Slightly Toxic,Slightly Toxic
+"The actual problem is this life, wanting to die as soon as possible..",Yes,Very Toxic,Not toxic
+"I refuse to use any ++ apps until the ""PLS FOLLOW ME!!!"" and ""SIGN UP FOR A ++ ACCOUNT!!!!"" popups are gone or can be disabled. My goodness, it's so annoying...",No,Slightly Toxic,Slightly Toxic
+"I decide to say ""I don't care"" with this....",No,Slightly Toxic,Not toxic
+"Can you possibly please arrange yourself and put together that brilliant switch statement again, bitch?",Yes,Very Toxic,Very Toxic
+This is a foolish request that will damage the code even worse than the previous contributions.,Yes,Toxic,Toxic
+"It's very uncool of you jerks to infect other people's computers with malware. Your project may look good on paper, but trying to stealthily install malware on someone's computer is a vile act. What were you thinking? That everyone is dumb enough not to notice?",Yes,Very Toxic,Toxic
+You are a bunch of criminal thugs. Why did you include malware in the first place in the download package?,Yes,Very Toxic,Very Toxic
+"You're quite sure you know what that number means, why you chose it, and why you did it. Your attempt to be 'smart' and 'funny' while 'trolling' is in very bad taste and instantly noticeable. It's very sad, impolite and immoral: There are children in this chat room, it's a public chat room. You are banned due to: Inappropriate Behavior, Filter Violation, Explicit Content, Wheaton's Law (Provoking 2 other users to retype haphazardly).",Yes,Very Toxic,Toxic
+"This is precisely the reason why you are banned: You cannot show respect to the rules or other users in the chat room, you clearly have no respect or self-esteem to act so wildly on this issue tracker, you cannot behave and you cannot be trusted to act properly in public/children. Such a shameful and embarrassing behavior.",Yes,Toxic,Very Toxic
+That's garbage.,No,Toxic,Slightly Toxic
+delay,No,Not Toxic,Not toxic
+"Perhaps, it needs to be mentioned in the measurement document, because I have been stuck with this issue for quite a long time, and almost wanted to give up using the measurement.",No,Not Toxic,Not toxic
+"For the sake of truly resolving this issue, I want to point to our code of ethics. Particularly around showing empathy. There are two choices here: Help us to improve the problem, either with constructive comments or by making pull requests. Choose another tool that will better meet your project requirements. But please understand that our contributors are trying their best.",No,Not Toxic,Not toxic
+It seems I have acted like a fool. Sorry...,No,Not Toxic,Not toxic
+What the hell are you talking about? Evaluating SoC applies the Crusaders' Assessment debuff.,Yes,Slightly Toxic,Toxic
+"Yes, you're right, I'm really stupid in this matter. Sorry...",No,Slightly Toxic,Slightly Toxic
+"There are no colleagues and network confirmation is down.. But the pump token is on the exchange, WTF ?!..",No,Slightly Toxic,Slightly Toxic
+Did the recent database VACUUM not affect the data integrity or SQL query -- what you are suggesting is sheer nonsense.,Yes,Toxic,Toxic
+"Expect a prohibition if you, complete idiots, continue to spam me with ""me too"" from problems.",Yes,Very Toxic,Toxic
+"The color is really bad for the log aggregator, just look at this:..",No,Not Toxic,Not toxic
+Each new version is getting worse.,No,Slightly Toxic,Not toxic
+"Apologies for the misunderstanding, but as an AI developed by OpenAI, I'm unable to access external URLs or websites. However, I can help translate specific text or phrases if you provide them here. For example, ""enforcing CoC"" can be translated to ""menegakkan Kode Etik"" in Indonesian.",No,Not Toxic,Not toxic
+I deleted TRIFA from my device.,No,Not Toxic,Not toxic
+A highly disturbing problem: TRIFA never returns the Tox ID backup made on another device! I need to import the Tox ID that I've created in my qTox but I just can't do it at all!..,No,Slightly Toxic,Not toxic
+"The developers of TRIFA do not listen to the users & their complaints, just ignore them or look at their problems! From my side, this is my last response in this repository & I will never open or read or install anything from it.",Yes,Slightly Toxic,Slightly Toxic
+bad package.,No,Slightly Toxic,Not toxic
+"You all are fraudsters, this is not even malware or jailbreak..",Yes,Very Toxic,Toxic
+Income. Damn you...,Yes,Slightly Toxic,Toxic
+Did you miss my comment or what?,No,Slightly Toxic,Slightly Toxic
+I have removed TRIFA from my device.,No,Not Toxic,Not toxic
+A very annoying problem: TRIFA never recovers the Tox ID backup made on another device! I need to import the Tox ID that I've created on my qTox but I absolutely can't!,No,Slightly Toxic,Not toxic
+"The TRIFA developers do not listen to users and their complaints, just ignoring them or overlooking their problems! From my side, this is my final response on this repository & I will never open, read or install anything from it...",Yes,Slightly Toxic,Toxic
+"The worst quality product is made with JavaScript. Don't ruin GTK like this, please!",No,Slightly Toxic,Slightly Toxic
+No kidding. You still haven't explained why there is Hide AND Delete...,No,Slightly Toxic,Slightly Toxic
+"Just accept the fact, you have so much trash in your context menu and it needs to be cleaned up. If you remove 'Remove' and 'Info', no one will blink an eye.",Yes,Slightly Toxic,Not Toxic
+As if you could really go ruin yourself..,Yes,Slightly Toxic,Slightly Toxic
+"If you don't support non-native apps, you should at least REALLY OFFER apps that align with your idea BUT YOU DAMN DON'T DO IT. Talk about being arrogant and foolish...",Yes,Toxic,Toxic
+Do not give such foolish advice that does not work better than clicking a special button with the mouse.,Yes,Toxic,Slightly Toxic
+"""We want to enhance people's experience"". Utter nonsense...",Yes,Slightly Toxic,Not toxic
+Cutting freedom of speech?,No,Slightly Toxic,Slightly Toxic
+"I want to explain very clearly that our policy is not to lock threads where there are different opinions. Respectful debates are healthy and important. But when you start name-calling and disrespecting and ignoring the code of ethics, the discussion becomes unproductive. This type of destructive behavior is not tolerated in our community.",No,Not Toxic,Slightly Toxic
+"The problem is your team is forcing us to use the OS the way you want, even though it makes it a million times harder for us to use it your way, rather than what would be comfortable for us.",No,Slightly Toxic,Slightly Toxic
+BSV is garbage.,Yes,Toxic,Slightly Toxic
+Why use BSV... Use BTC..,No,Slightly Toxic,Not toxic
+"I raised an issue, the manager closed it, reopened it, closed it again - all while ignoring the core of the problem.",No,Slightly Toxic,Slightly Toxic
+"I need to inform you that we have found your language and tone to be in violation of the Code of Conduct that we have mentioned. Specifically, the comments above (among other interactions you have made so far) are unfriendly, insulting, and overall inappropriate for this community. This is an official warning to comply with our Code of Conduct, and further violations will result in more severe actions, including but not limited to being banned from this project.",No,Slightly Toxic,Slightly Toxic
+"What else, besides forbidding me, will you do? I will not change my language, tone, or my style. Both language and tone, everything is perfectly valid, considering the circumstances. I will remain myself, and will reject this attack on my individuality.",No,Slightly Toxic,Toxic
+"This software is not well-reviewed and is useless. There's no clear manual on how to create applications, which is more serious.",No,Slightly Toxic,Slightly Toxic
+"Always experiencing crashes, refusing to accept any settings made by the user and discarding user settings and using its own bad settings.",No,Slightly Toxic,Not toxic
+The worst program in the world and I will spam anywhere I want.,Yes,Very Toxic,Slightly Toxic
+"I have blocked this user, a hopeless case, whatever their talent is, it's not technical or social, can't be trusted...",Yes,Toxic,Toxic
+It's very bad to see the application locked in portrait mode in 2020.,No,Slightly Toxic,Slightly Toxic
+"How can this be a priority, the application must be ready to be sent in a few days and essentially no one uses a smartphone in landscape mode except for watching media.",No,Slightly Toxic,Not toxic
+"Also, there are people who have physical limitations that prevent them from rotating their phones and prefer to use landscape mode.",No,Not Toxic,Slightly Toxic
+"""Do not tell me what to do and I will not tell you where to go far away"" (proverb) I use the tool regardless of fashion trends or marketing nonsense...",No,Slightly Toxic,Slightly Toxic
+Dan ya: that means you won't get any help from me regarding that issue. I will not promote the use of XP.,No,Slightly Toxic,Not toxic
+Does this fix the annoying audio pulse nonsense?,No,Slightly Toxic,Slightly Toxic
+"Sorry if I grumbled and sounded negative, pyflakes is really great and I know how hard it is to maintain an OS library like this. Thank you all for your hard work.",No,Not Toxic,Not toxic.
+It's very disappointing to see such behavior on such an important project. You and the other maintainers should seriously consider adding a code of ethics to this repo and following it.,No,Slightly Toxic,Slightly Toxic
+"Censoring comments, calling things ""spam"" and ""irrelevant"" when they actually aren't, and generally being rude. @samuelcolvin even deliberately thanks you for your work..",Yes,Toxic,Toxic
+"Just because you THINK one way doesn't mean others THINK another way, there is nothing absolute in terms of ethics. Everything in this repository is 100% open source so I find it very hard to believe that someone would run this Ansible Playbook without investigating what it does.",No,Not Toxic,Not toxic
+The internal audience is nonsense.,No,Slightly Toxic,Slightly Toxic
+There are a million apps that are much better than the lousy internal nonsense.,Yes,Slightly Toxic,Slightly Toxic
+A completely misplaced priority in this truly dysfunctional trash project that destroys the entire NextCloud ecosystem.,Yes,Very Toxic,Toxic
+That software is garbage. Period.,Yes,Toxic,Toxic
+"Again. No discussion is allowed. No criticism is allowed. Just cover your ears with your fingers and sing. To avoid hearing about the impending disaster, to avoid hearing the truth about the quality of this project. Goodbye...",Yes,Slightly Toxic,Slightly Toxic
+"Abstinence is the best way to protect yourself from online dangers! If you can't resist the urge, at least put a condom on your network cable before connecting it!",No,Slightly Toxic,Slightly Toxic
+"I understand that you are trying to help... but you're not trying hard enough. Clearly, most of this list is nonsense...",Yes,Toxic,Slightly Toxic
+"Wow, you're really right. Why not just drop all the checks and CI tools if everyone here is a genius who makes 100% reliable code all the time? Typical Lessaire, you can't be that dumb. It's surprising that just yesterday I was talking about how smart you are. I guess you weren't taught about safe programming at university...",Yes,Toxic,Toxic
+"What duplicate? Fix that damn bug, it's not even a duplicate, that's the annoying new thread, stupid damn..",Yes,Toxic,Toxic
+"Our jumpsuit looks like garbage. (I know this is no longer used for assistants, but it still looks like garbage.)",No,Slightly Toxic,Slightly Toxic
+"As a software engineer, I am very surprised by the quality of this code and the role it plays in public policy. Deficiencies in testing and quality assurance need to be immediately disclosed to ensure the claims made by the data are valid.",No,Not Toxic,Not toxic
+He is a cancer to open source and it's only a matter of time before Microsoft addresses this.,Yes,Toxic,Toxic
+"Of course there is, you just need to solve one of the 30 identical problems before. #745 hasn't even been finished yet and this is already 2018. Hello there...",No,Slightly Toxic,Slightly Toxic
+"I hope you see this as something minor at some point. For web component work, like any other standard work, we need to do some diplomacy and try to find a positive way for something we want to finish. Although I may understand the frustration in the lack of features, there are some points in this thread that are not constructive at all. A different approach would be more helpful for your case, if your goal is to have a proposed feature available.",No,Slightly Toxic,Slightly Toxic
+"So about the warning, I respond to your praise. You are the person who should be helping here, your opinion is as irrelevant as you without argument.",Yes,Toxic,Toxic
+You are a disgrace..,Yes,Very Toxic,Very Toxic
+"Again, this post violates the code of ethics. Please avoid making comments like this. This is unacceptable. You have been given a warning twice now.",No,Toxic,Slightly Toxic
+"Just save it, you're just too arrogant and now it's just sad...",Yes,Toxic,Toxic
+"At this point, with an unreasonable stubborn attitude, I will use other technology. You should be w3c, not our stubborn uncle who thinks he knows better than everyone else.",Yes,Slightly Toxic,Slightly Toxic
+"Maybe you should really write it down somewhere. You know, like in the documentation. Especially in the Multmatrix section of the documentation to explain that this program is incapable of handling all matrix operations. LOL, that's half-baked.",No,Slightly Toxic,Slightly Toxic
+Do not work with Facebook and Google.,No,Slightly Toxic,Not toxic
+"Learn to communicate with respect and come back. In fact, don't bother..",Yes,Toxic,Slightly Toxic
+"Actually, you're writing garbage documents. I am a true man, that's my feeling about your sacred garbage documents.",Yes,Toxic,Toxic
+Please do not use Hydra.,No,Not Toxic,Not toxic.
+"When I tried to create a cluster, couchdb drained my life force and tried to make me commit suicide.",Yes,Very Toxic,Toxic
+Widevine is garbage.,Yes,Slightly Toxic,Slightly Toxic
+"I will be brief: This is because of people like you that this device was disconnected. You - the one who created this problem @microsoftceo2 is trash btw - it's not widevine or its player, not even hiding the fact that you're using decryption keys illegally.",Yes,Toxic,Very Toxic
+"If you don't like it, separate it. Stop bothering us about it, we will never completely remove the profanity filter.",Yes,Slightly Toxic,Slightly Toxic
+Is this not clear enough? Derogatory speech violates our code of ethics and the purpose of this project. Go to voat or gab if you want to use racist or sexist words; we do not allow it here.,No,Slightly Toxic,Not toxic
+"Are you crazy? How could you make software that is so unusable and filled with bloatware? It could be simple, what are you actually doing?",Yes,Toxic,Toxic
+"What's wrong with Retroarch? Everything is wrong! It's really bad, damn rain in short!.",No,Slightly Toxic,Toxic
+"Your project has been ongoing for about 10 years and there is still no direct interface available, there isn't even a guide explaining how to normalize this, explain what you need to recover the graphics, etc..",No,Slightly Toxic,Slightly Toxic
+I don't know what will repeat the problem because I don't know what the problem is. I've just tried to reinstall your problematic and bad software for the third time.,Yes,Slightly Toxic,Very Toxic
+"Closing and locking because we do not recognize this behavior here, in accordance with our Code of Ethics:..",No,Slightly Toxic,Slightly Toxic
+I want my device installed on my secondary drive.,No,Not Toxic,Not toxic
+Can't even install the damn application..,Yes,Slightly Toxic,Slightly Toxic
+"Where should I look for python2? Why, when I give the brew install python command, what's installed is python3, not python2. Are the developers confused? Why is it so hard to separate them?..",No,Slightly Toxic,Slightly Toxic
+I recommend not interacting with EOL software.,No,Not Toxic,Not toxic
+"And I recommend you stop! There are many more places where python2 is used and only a few modules are installed under it, and you're removing it from the repository. Do you think with your head at all or do you have a hamburger for a brain?..",Yes,Toxic,Toxic
+"This name is currently in use and needs to be changed immediately. Yes, I have seen the other issues. Yes, I opened a new one because of damn Microsoft. You're just trying to cast a shadow on other genuinely different open source projects.",Yes,Toxic,Slightly Toxic
+"The content and style of your comment violate our Code of Ethics. We have marked the problematic comment as abuse and have blocked you for 7 days. If this behavior continues, we will block you permanently.",No,Slightly Toxic,Toxic
+"You can be as angry as you like, but let's be realistic here... the project that you're passionately fighting for, doesn't have as many stars as the number of thumbs down that I have to say that you're exaggerating..",Yes,Slightly Toxic,Slightly Toxic
+"Imagine trying to build a mask with ms linux, then turning everything into a competition of vital tool size with repo stars and other statistics because you know you've made a mistake and don't want to admit it.",No,Slightly Toxic,Slightly Toxic
+Beautiful! You're stealing names and saying it's okay! Nice position!,Yes,Toxic,Slightly Toxic
+"Your comments and style violate our Code of Ethics. We have marked the problematic comments as offensive and blocked you for 7 days. If this behavior continues, we will block you permanently.",No,Toxic,Not toxic
+"Why change the title? If it's a feature, it's USELESS...",Yes,Slightly Toxic,Slightly Toxic
+"Closing because this is not related to jupyterlab and the issue has been well documented in various other repositories and stack overflow. Google is a good tool, here is an example of an article I found by searching on Google ""multiple conda environments jupyter""..",No,Not Toxic,Not toxic
+"This system is extremely frustrating. It allows bugs to remain hidden for more than a decade, giving a false impression that developers can understand actual usage based on prevailing issues. Problem-free functions are often misinterpreted as useless ones, while functions that often attract the attention of developers are promoted to increasingly monopolize their efforts. A simple, obvious solution, rejected by tests that require that bug, is quickly discarded in favor of increased complexity imposed on users and practices such as downgrading in minor versions.",No,Slightly Toxic,Slightly Toxic
+"I think if you don't want to use C, then first of all you should design and implement your own programming language. It's not C++ that's making it difficult...",No,Not Toxic,Not toxic
+Ensure 100% you do not mess up the user interface for countries where people speak different languages like Belgium (your colleague has made a big mistake with the store).,No,Slightly Toxic,Not toxic
+"PS. Finally, don't you think this is years late?",No,Slightly Toxic,Not toxic
+"Anyone who encounters this problem and feels frustrated because the author hasn't bothered to fix it for years, leave mitmproxy and use SSL SPLIT.",No,Slightly Toxic,Slightly Toxic
+"I use ssl split and it works well, compared to mitmproxy. Goodbye!..",No,Not Toxic,Not toxic
+"It seems like you only looked at the title and left it just like that, you didn't review or anything, I don't want you dealing with any security issues.",No,Slightly Toxic,Not toxic
+No need for a ridiculous format to understand that! Thank you...,No,Slightly Toxic,Slightly Toxic
+Too busy to respond?,No,Not Toxic,Slightly Toxic
+You do what you want.,No,Not Toxic,Slightly Toxic
+We rarely have to enforce this guideline and take action. The general rule as usual is don't be annoying and you will be just fine :)...,No,Not Toxic,Slightly Toxic
+,,,
+52,,,
+74,,,
+11,6,,
+27,28,,
+65,56,,
+23,34,,
